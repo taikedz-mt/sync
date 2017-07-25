@@ -1,5 +1,7 @@
 # Minetest Server Sync
 
+***In development*** Not ready yet
+
 This is a suite of tools that allow two or more distinct servers to share data.
 
 Notably:
